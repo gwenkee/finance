@@ -1,0 +1,4 @@
+AMZN (Amazon): 14 units
+GOOGL (Alphabet-A): 103 units
+NVDA (Nvidia): 6 units
+TSLA (Tesla): 0.0884 units
