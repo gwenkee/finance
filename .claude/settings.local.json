@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bash *)",
+      "Skill(update-config)",
+      "Read(//home/engkwee/.claude/**)"
+    ]
+  }
+}

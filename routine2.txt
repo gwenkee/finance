@@ -1,0 +1,38 @@
+Using the research and computed data already in our conversation from Routine 1,
+do the following:
+
+STEP 1 — Write the full analysis as a Markdown file at:
+  Analysis/YYYY-MM-DD_Portfolio_Analysis.md
+  (use today's actual date, e.g. 2026-04-26_Portfolio_Analysis.md)
+
+  Use the same 8-section structure as 2026-04-25_Portfolio_Analysis.md:
+    1. Executive Summary
+    2. Market Context
+    3. Current Holdings Snapshot (with tables)
+    4. Dividend Goal — The Math
+    5. Holding-by-Holding Analysis
+    6. Recommended Additions for the SGX Dividend Builder
+    7. Action Items
+    8. Notes & Disclaimers + Sources
+
+  Do NOT delete or overwrite any prior dated analysis files.
+
+STEP 2 — Send a Slack message to Kwee using the Slack MCP connector:
+  a) Call slack_search_users to find Kwee (search "Kwee" or "engkwee");
+     use the user ID for the DM. If multiple matches, pick engkwee@gmail.com.
+  b) Format the message in Slack mrkdwn (*bold*, _italics_, `code`, • bullets):
+     - Header: *Portfolio Analysis — YYYY-MM-DD*
+     - Full Executive Summary (prose + top recommendations bullets)
+     - Dividend goal line: Goal: SGD 7,000/month | Today: SGD X/month | Gap: SGD Y/month
+     - Action Items list as bullets
+     - Footer: Full report: Finance\Analysis\YYYY-MM-DD_Portfolio_Analysis.md
+  c) Keep total message under 3,500 characters; truncate Executive Summary
+     intelligently if needed.
+  d) If Slack is not connected or user lookup fails, skip and note it.
+
+STEP 3 — Output a brief 4–6 line chat summary:
+  - Total portfolio value
+  - SGX dividend run-rate vs goal
+  - Today's most important action
+  - Link to the new file
+  - Confirmation that Slack was sent (or a note if skipped)
