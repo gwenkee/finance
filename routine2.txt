@@ -18,7 +18,11 @@ STEP 1 — Write the full analysis as a Markdown file at:
   Do NOT delete or overwrite any prior dated analysis files.
 
 STEP 2 — Send a Slack message to Kwee using the Slack MCP connector:
-  a) Call slack_search_users to find Kwee (search "Kwee" or "engkwee");
+  IMPORTANT — Slack tools are deferred and must be loaded before use. Do this first:
+    Call ToolSearch with query "select:mcp__claude_ai_Slack__slack_search_users,mcp__claude_ai_Slack__slack_send_message"
+    to fetch the tool schemas. If ToolSearch returns an error or the tools are not found,
+    Slack is unavailable — skip Step 2 and note it in Step 3.
+  a) Call mcp__claude_ai_Slack__slack_search_users to find Kwee (search "Kwee" or "engkwee");
      use the user ID for the DM. If multiple matches, pick engkwee@gmail.com.
   b) Format the message in Slack mrkdwn (*bold*, _italics_, `code`, • bullets):
      - Header: *Portfolio Analysis — YYYY-MM-DD*

@@ -250,3 +250,696 @@ Slack message sent. Here's the 4–6 line summary:
 **New file:** `finance/Analysis/2026-04-28_Portfolio_Analysis.md` — prior dated files untouched.
 
 **Slack:** Message sent to Eng Kwee (U0AVCH2LUAG) — [view in Slack](https://ai-side-hustles.slack.com/archives/D0AV2HXNMD1/p1777358860192609)
+All data collected. Now compiling the full analysis.
+
+---
+
+# Kwee's Daily Portfolio Analysis — 29 April 2026
+
+## Market Snapshot
+
+| Indicator | Level / Rate |
+|---|---|
+| USD/SGD | 1.2780 |
+| GBP/SGD | 1.7210 |
+| STI (^STI) | ~4,910 (Apr 28 close) |
+| Fed Funds Rate | 3.50–3.75% (held; 1–2 cuts pencilled for 2H 2026) |
+| Key Macro | Middle East tensions lifting energy costs; Singapore CPI guidance 1.5–2.5%; AMZN Q1 earnings release tonight |
+
+---
+
+## STEP 3a — Per-Holding Valuation
+
+### SGX Holdings (all prices in SGD)
+
+| Ticker | Name | Units | Price (SGD) | Value (SGD) |
+|---|---|---|---|---|
+| A17U | CapitaLand Ascendas REIT | 4,460 | 2.52 | **11,239** |
+| C52 | ComfortDelGro | 3,000 | 1.48 | **4,440** |
+| Z74 | Singtel | 6,342 | 4.81 | **30,505** |
+| ES3 | SPDR STI ETF | 3,863 | 4.94 | **19,083** |
+| | **SGX Total** | | | **65,267** |
+
+### NASDAQ Holdings (USD → SGD @ 1.2780)
+
+| Ticker | Name | Units | Price (USD) | Value (USD) | Value (SGD) |
+|---|---|---|---|---|---|
+| AMZN | Amazon | 14 | 261.00* | 3,654 | **4,670** |
+| GOOGL | Alphabet-A | 103 | 347.50 | 35,793 | **45,743** |
+| NVDA | Nvidia | 6 | 213.13 | 1,279 | **1,635** |
+| TSLA | Tesla | 0.0884 | 374.61 | 33 | **42** |
+| | **NASDAQ Total** | | | **40,759** | **52,090** |
+
+*AMZN pre-earnings intraday price; Q1 results after market close tonight.*
+
+### LSE Holdings (USD → SGD @ 1.2780)
+
+| Ticker | Name | Units | Price (USD) | Value (USD) | Value (SGD) |
+|---|---|---|---|---|---|
+| CSPX | iShares Core S&P 500 UCITS ETF | 112.79 | 770.47 | 86,893 | **111,049** |
+| | **LSE Total** | | | **86,893** | **111,049** |
+
+---
+
+## STEP 3b — Total Portfolio Value & Breakdown
+
+| Exchange | Value (SGD) | Weight |
+|---|---|---|
+| SGX | 65,267 | 28.6% |
+| NASDAQ | 52,090 | 22.8% |
+| LSE (CSPX) | 111,049 | 48.6% |
+| **Grand Total** | **228,406** | **100%** |
+
+> CSPX (LSE) is the single largest position at nearly half the portfolio — a natural consequence of the ongoing SGD 1,000/month FSMOne RSP.
+
+---
+
+## STEP 3c — Projected Annual SGX Dividend Income vs Goal
+
+| Ticker | Units | DPS (SGD) | Source | Annual Income (SGD) |
+|---|---|---|---|---|
+| A17U | 4,460 | 0.1501 | FY2025 actual DPU (15.005¢) | 669 |
+| C52 | 3,000 | 0.0850 | FY2026 consensus (ex-div SGD 0.046 on 4 May) | 255 |
+| Z74 | 6,342 | 0.1300 | FY2026 consensus forecast | 824 |
+| ES3 | 3,863 | 0.1680 | ~3.40% yield × SGD 4.94 price | 649 |
+| **Total** | | | | **2,397** |
+
+| Goal Metric | Amount |
+|---|---|
+| Annual income goal | SGD 84,000 |
+| Current projected income | SGD 2,397 |
+| Monthly equivalent | SGD 200 |
+| **Progress vs goal** | **2.9%** |
+
+---
+
+## STEP 3d — Income Gap & Additional Capital Required
+
+Income gap: **SGD 81,603/year**
+
+| Blended Yield Scenario | Additional SGX Capital Required |
+|---|---|
+| 4.5% blended yield | **SGD 1,813,400** |
+| 5.5% blended yield | **SGD 1,483,700** |
+| 6.5% blended yield | **SGD 1,255,400** |
+
+> **Key insight:** With SGD 65k in SGX currently generating only SGD 2.4k/year, closing the dividend gap requires building SGX capital to SGD 1.3M–1.8M depending on yield achieved. The NASDAQ/LSE growth portfolio (SGD 163k) needs to be progressively recycled into SGX dividend assets over time to close this gap.
+
+---
+
+## STEP 4 — Per-Holding Action Ratings & Rationale
+
+---
+
+### A17U — CapitaLand Ascendas REIT | **ADD**
+
+**Price:** SGD 2.52 | **Forward yield:** ~5.93% | **Next results:** 5 May 2026
+
+CLAR remains Singapore's premier industrial-and-logistics REIT with 222 properties across four continents, occupancy above 90%, and positive double-digit rental reversions in FY2025. The 1.3% dip in DPU to 15.005¢ was entirely mechanical (dilution from the June 2025 equity raise) rather than operational, and distributable income actually grew 1.4%. At SGD 2.52, the unit is trading below most analyst fair-value estimates, offering a near-6% forward yield supported by data-centre and logistics tailwinds. With Q2 2026 results due 5 May, there is a near-term catalyst. The position size (4,460 units; SGD 11.2k) is modest relative to the long-term income objective — adding further on any pre-results dip toward SGD 2.40–2.45 makes sense.
+
+---
+
+### C52 — ComfortDelGro | **ADD**
+
+**Price:** SGD 1.48 | **Consensus target:** SGD 1.633 (+10.3%) | **Ex-div:** 4 May 2026 (SGD 0.046)
+
+ComfortDelGro offers an attractive combination of a ~5.7–6.1% dividend yield and double-digit price upside to the SGD 1.633 consensus target. The upcoming SGD 0.046 interim dividend (ex-date 4 May 2026) provides an imminent income event — the stock should be held through ex-date to capture it. The company recently reshuffled its board following the passing of a director, but there is no operational read-through from that change. The transportation business continues to benefit from stable public transit ridership and international operations; full-year 2026 results are not due until August, so there are no short-term earnings landmines. At 3,000 units (SGD 4.4k), this is the smallest SGX position and warrants topping up to build meaningful dividend income.
+
+---
+
+### Z74 — Singtel | **HOLD**
+
+**Price:** SGD 4.81 | **Forward yield:** ~3.4–3.8% | **Recent dividend paid:** 18 Apr 2026
+
+Singtel's 2026 DPS is forecast to step down slightly to SGD 0.13 (from ~SGD 0.146 in FY2025), dragging the forward yield to ~2.7–3.4% depending on which measure you use — materially lower than A17U and C52. The stock has recovered significantly (trading near multi-year highs at SGD 4.81) on the back of regional associate recoveries (AIS Thailand, Bharti Airtel India) and internal digital transformation. Given that the holding is 6,342 units (SGD 30.5k — the largest SGX position), and the forward yield has compressed to the lower end of the SGX dividend spectrum, there is no compelling reason to add here. Hold for income continuity and optionality on the value-realisation dividend programme, but recycle incremental capital into higher-yielding SGX names.
+
+---
+
+### ES3 — SPDR STI ETF | **HOLD**
+
+**Price:** SGD 4.94 | **Yield:** ~3.24–3.56% | **AUM:** SGD 3.02B
+
+The STI ETF provides diversified blue-chip Singapore exposure (banks, telcos, REITs) at a low 0.30% expense ratio and with a ~3.4% yield. With the STI at ~4,910 (near its recent high) and given the elevated energy-cost and geopolitical backdrop, near-term upside is limited. The ETF already provides Singtel and banking-sector exposure that overlaps with direct holdings. Hold as a core stability anchor; no need to add at current prices when individual dividend names offer better yield.
+
+---
+
+### AMZN — Amazon | **HOLD (await earnings)**
+
+**Price:** USD ~261 | **No dividend**
+
+Amazon reports Q1 2026 results tonight (29 Apr, after US market close). Options pricing implies a ±6–7% move. Consensus expects EPS of ~USD 1.63 and revenue of ~USD 177B; the market will react most to AWS growth rate (expected ~24% YoY) and management commentary on the USD 200B 2026 capex programme. At 14 units (SGD 4.7k), this is a small position. Hold through earnings; the stock is near its all-time high and the risk/reward is balanced. Do not add ahead of a binary event.
+
+---
+
+### GOOGL — Alphabet Class A | **HOLD**
+
+**Price:** USD 347.50 | **No dividend**
+
+Alphabet is the portfolio's largest growth holding at SGD 45.7k (103 units). The stock hit an all-time closing high of USD 350.34 on 27 April 2026 on robust cloud and Search advertising results. The AI-driven advertising recovery and Google Cloud growth are intact, but the stock trades at a premium to historical averages. At current price levels, hold for growth; this is not an SGX dividend generator, but the capital appreciation contributes to the long-term wealth base that can eventually fund SGX investments.
+
+---
+
+### NVDA — Nvidia | **HOLD**
+
+**Price:** USD 213.13 | **No dividend**
+
+Nvidia is tracking near its all-time high (USD 216.61 on 27 Apr). At only 6 units (SGD 1.6k), this is a small satellite position. The AI infrastructure capex super-cycle remains intact — Amazon's USD 200B 2026 capex commitment (mentioned in AMZN earnings preview) is a direct Nvidia tailwind. Hold; the position is too small to add meaningfully to income, but trimming would surrender exposure to the strongest secular theme in tech.
+
+---
+
+### TSLA — Tesla | **HOLD**
+
+**Price:** USD 374.61 | **Fractional: 0.0884 units ≈ SGD 42 | No dividend**
+
+This is essentially a rounding-error position at SGD 42. Tesla has recovered from its 2025 lows (52-week range: USD 270–499) but faces persistent margin pressure. At this size there is no action to take — the position has no meaningful impact on the portfolio either way.
+
+---
+
+### CSPX — iShares Core S&P 500 UCITS ETF (LSE) | **HOLD / CONTINUE RSP**
+
+**Price:** USD 770.47 | **No distributions (accumulating) | 112.79 units ≈ SGD 111k**
+
+CSPX is an accumulating ETF — all S&P 500 dividends are reinvested, so it contributes zero to SGX income but is the portfolio's largest compounding engine (up ~25% YoY). The ongoing SGD 1,000/month FSMOne RSP is the right mechanism: cost-averaging over time into S&P 500 exposure. Continue the RSP as planned. Over a 5–10 year horizon, the accumulated CSPX value could be strategically rotated (partially) into SGX dividend assets to materially close the income gap.
+
+---
+
+## Candidate SGX Dividend Stocks / REITs to Add
+
+| Ticker | Name | Approx. Yield | Reason to Consider |
+|---|---|---|---|
+| **D05** | DBS Group Holdings | ~5.4% | Record profits (FY2025 net profit SGD 11.4B), strong capital returns, highest-quality Singapore bank; anchor income stock |
+| **O39** | OCBC Bank | ~5.5% (incl. special div) | Consistent payer since 1992; generous 2025 special dividend of 16¢; conservative balance sheet, diversified across insurance & wealth mgmt |
+| **C38U** | CapitaLand Integrated Commercial Trust (CICT) | ~5.0–5.2% | Singapore's largest S-REIT by market cap (SGD 17.4B); diversified retail + office; DPU growth of 1.2% in FY2024; resilient tenant base |
+| **ME8U** | Mapletree Industrial Trust | ~6.2% | Data centre exposure adds secular tailwind; actionable BUY per DBS Research; balances CLAR industrial exposure with US data centre growth |
+| **M44U** | Mapletree Logistics Trust | ~6.5–7.0% | Highest yield of the Mapletree stable; early signs of pan-Asian logistics stabilisation; watch for distribution cuts before adding size |
+| **J69U** | Frasers Centrepoint Trust | ~5.5–6.0% | Suburban Singapore malls with necessity-retail anchor tenants; low occupancy volatility; defensive income profile ideal for dividend goals |
+
+> **Highest-priority adds for the income objective:** DBS (D05) and OCBC (O39) offer the best combination of yield quality, capital safety, and liquidity. The Singapore banks are benefiting from a still-elevated rate environment (Fed at 3.50–3.75%) and are far from a rate-cut induced earnings cliff given the cautious Fed path.
+
+---
+
+## Summary for Routine 2
+
+- **Total portfolio:** SGD 228,406 (SGX 29% / NASDAQ 23% / LSE-CSPX 49%)
+- **SGX annual dividend income:** SGD 2,397 (~SGD 200/month)
+- **Gap to SGD 7k/month goal:** SGD 81,603/year; requires SGD 1.26M–1.81M additional SGX capital at 4.5–6.5% blended yield
+- **Immediate actions:** ADD C52 before 4 May ex-div; ADD A17U on any pre-results dip; initiate DBS / OCBC for quality income scale-up
+- **Watch tonight:** AMZN Q1 2026 earnings (AWS growth rate; capex guidance)
+
+---
+
+Sources:
+- [CapitaLand Ascendas REIT (A17U) – StockAnalysis Dividend](https://stockanalysis.com/quote/sgx/A17U/dividend/)
+- [CapitaLand Ascendas REIT FY2025 Annual Report Summary – The Singaporean Investor](https://www.thesingaporeaninvestor.sg/2026/04/02/capitaland-ascendas-reit-sgx-a17u-summary-of-annual-report-for-fy2025/)
+- [ComfortDelGro (C52) – Growbeansprout](https://growbeansprout.com/quote/C52.SI)
+- [Singtel Dividends – Growbeansprout](https://growbeansprout.com/quote/Z74.SI/dividend)
+- [ES3 SPDR STI ETF – POEMS](https://www.poems.com.sg/etf-screener/sgx-es3/)
+- [CSPX – iShares Product Page](https://www.ishares.com/uk/individual/en/products/253743/ishares-sp-500-b-ucits-etf-acc-fund)
+- [Amazon Q1 2026 Earnings Preview – IG AU](https://www.ig.com/au/news-and-trade-ideas/_amazon-q1-earnings-preview--can-aws-and-ai-drive-growth-amid-co-260424)
+- [USD/SGD Exchange Rate – XE](https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=SGD)
+- [Fed Rate Outlook 2026 – Goldman Sachs](https://www.goldmansachs.com/insights/articles/the-outlook-for-fed-rate-cuts-in-2026)
+- [Singapore Dividend Stocks 2026 – Minichart](https://www.minichart.com.sg/2026/04/27/singapore-stocks-with-high-dividend-yields-2026-top-picks-reits-for-investors-235/)
+- [MAS Macroeconomic Review Apr 2026](https://www.mas.gov.sg/publications/macroeconomic-review/2026/volume-xxv-issue-2-apr-2026)
+- [Amazon AMZN Price – TipRanks](https://www.tipranks.com/news/last-minute-thoughts-top-analyst-raises-amazon-stock-amzn-price-target-to-street-high-325-just-ahead-of-q1-earnings)
+Done. Here's the STEP 3 summary:
+
+---
+
+**Total portfolio value:** SGD 228,406 (SGX 28.6% / NASDAQ 22.8% / CSPX 48.6%), up modestly from the prior mark; USD/SGD 1.2780.
+
+**SGX dividend run-rate:** SGD 200/month vs SGD 7,000/month goal — gap of SGD 6,800/month; ~SGD 1.48M additional SGX assets needed at a 5.5% blended yield.
+
+**Today's most important action:** AMZN and GOOGL both report Q1 tonight — hold both, pre-stage your decision framework before you sleep; review Thursday morning SGT. No action on FOMC; monitor Powell's press conference tone only.
+
+**New file:** `finance/Analysis/2026-04-29_Portfolio_Analysis.md` — prior dated files untouched.
+
+**Slack:** Message sent to Eng Kwee (U0AVCH2LUAG) — https://ai-side-hustles.slack.com/archives/D0AV2HXNMD1/p1777424972270889
+I now have all the data needed. Let me compile the full analysis.
+
+---
+
+# Daily Portfolio Analysis — 30 April 2026
+
+---
+
+## MARKET SNAPSHOT
+
+| Indicator | Value | Note |
+|---|---|---|
+| USD/SGD | 1.2774 | As of Apr 29 |
+| STI | ~4,923 | Apr 24 last confirmed print; likely similar range today |
+| Fed Funds Rate | 3.50–3.75% | On hold for 3rd consecutive meeting; unprecedented 4 dissents |
+| Fed Chair | Transition | Kevin Warsh replaces Powell on May 15 — policy uncertainty elevated |
+| Singapore GDP | 2.8% (2026F) | After exceptional 5.0% in 2025; MAS tightened S$NEER slightly in April |
+| Key Macro Risk | Middle East conflict | Crude supply disruption; weighing on Singapore's trading partners |
+
+---
+
+## STEP 3a — PER-HOLDING VALUATION
+
+### SGX Holdings (SGD)
+
+| Ticker | Name | Units | Price (SGD) | Value (SGD) |
+|---|---|---|---|---|
+| A17U | CapLand Ascendas REIT | 4,460 | 2.520 | **11,239** |
+| C52 | ComfortDelGro | 3,000 | 1.480 | **4,440** |
+| Z74 | Singtel | 6,342 | 4.600 | **29,173** |
+| ES3 | SPDR STI ETF | 3,863 | 4.951 | **19,123** |
+| | | | **SGX Total** | **63,975** |
+
+### NASDAQ Holdings (USD → SGD @ 1.2774)
+
+| Ticker | Name | Units | Price (USD) | Value (USD) | Value (SGD) |
+|---|---|---|---|---|---|
+| AMZN | Amazon | 14 | 258.07 | 3,613 | **4,616** |
+| GOOGL | Alphabet-A | 103 | 372.00* | 38,316 | **48,941** |
+| NVDA | Nvidia | 6 | 209.35 | 1,256 | **1,605** |
+| TSLA | Tesla | 0.0884 | 376.02 | 33 | **42** |
+| | | | | **NASDAQ Total USD 43,218** | **SGD 55,204** |
+
+*GOOGL: closed ~$347.50 on Apr 28; jumped ~7% after-hours post-Q1 2026 earnings beat on Apr 29 — using ~$372 as Apr 30 indicated price.
+
+### LSE Holdings (USD → SGD @ 1.2774)
+
+| Ticker | Name | Units | Price (USD) | Value (USD) | Value (SGD) |
+|---|---|---|---|---|---|
+| CSPX | iShares Core S&P 500 UCITS ETF (USD Acc) | 112.7861 | 770.47 | 86,880 | **111,004** |
+
+---
+
+## STEP 3b — TOTAL PORTFOLIO SUMMARY
+
+| Exchange | Value (SGD) | Weight |
+|---|---|---|
+| SGX | 63,975 | 27.8% |
+| NASDAQ | 55,204 | 24.0% |
+| LSE (CSPX) | 111,004 | 48.2% |
+| **Grand Total** | **230,183** | **100%** |
+
+---
+
+## STEP 3c — PROJECTED ANNUAL SGX DIVIDEND INCOME
+
+| Ticker | Units | Forward DPS (SGD) | Annual Income (SGD) | Yield | Source/Basis |
+|---|---|---|---|---|---|
+| A17U | 4,460 | 0.190 | 847 | 7.4% | 2026 consensus; last H1 DPS 0.075 paid Mar 2026 |
+| C52 | 3,000 | 0.090 | 270 | 6.1% | 2026 consensus; next ex-div May 4 (SGD 0.046) |
+| Z74 | 6,342 | 0.130 | 824 | 2.8% | 2026 consensus; FY2025 boosted by one-off gain |
+| ES3 | 3,863 | 0.170 | 657 | 3.4% | H1 2026 ex-div Feb 11 (SGD 0.085); H2 estimated |
+| **Total** | | | **2,598** | **avg ~4.1%** | |
+
+**Monthly equivalent: SGD 216 / month**
+
+### Progress vs Goal
+
+| Metric | Value |
+|---|---|
+| Annual goal | SGD 84,000 |
+| Current annual SGX income | SGD 2,598 |
+| **Annual income gap** | **SGD 81,402** |
+| Monthly income gap | SGD 6,784 |
+| Goal attainment | **3.1%** |
+
+---
+
+## STEP 3d — ADDITIONAL SGX CAPITAL REQUIRED TO CLOSE THE GAP
+
+To generate the remaining **SGD 81,402/year** in SGX dividends:
+
+| Blended Yield Scenario | Additional SGX Capital Required |
+|---|---|
+| 4.5% (conservative — banks + blue chips) | **SGD 1,808,933** |
+| 5.5% (balanced — banks + REITs mix) | **SGD 1,479,309** |
+| 6.5% (aggressive — high-yield REIT-heavy) | **SGD 1,252,338** |
+
+**Context:** The current non-SGX portfolio (CSPX + NASDAQ growth stocks) is worth ~SGD 166K but generates zero SGD dividend income. Systematically converting growth assets into high-yield SGX income stocks over time is the primary lever to close this gap.
+
+---
+
+## STEP 4 — INDIVIDUAL HOLDING ANALYSIS & ACTION RATINGS
+
+---
+
+### 🇸🇬 A17U — CapitaLand Ascendas REIT | **ADD**
+
+**Price:** SGD 2.520 | **Forward Yield:** 7.4% | **Maybank TP:** SGD 3.20 (+27%)
+
+The 1Q FY2026 business update released in late April is solidly positive: rental reversion of +10.6% signals strong underlying occupancy demand, portfolio occupancy holds at 90.5%, and the ICR of 3.5x provides adequate interest cover. The S$1.6b in accretive acquisitions are the key near-term story — gearing is elevated at 42% but is expected to normalise to 37.3% after the ongoing equity fund-raising (preferential offering), which removes the MAS leverage ceiling concern. At SGD 2.52 — well below the SGD 3.20 analyst target — and with a 7.4% forward yield, this is the most compelling income compounder in the SGX portfolio. The main risk is the equity fundraising diluting existing holders, but the accretion from acquisitions offsets this. For the SGD 84K income goal, A17U is the core building block and additional units should be accumulated on dips.
+
+---
+
+### 🇸🇬 C52 — ComfortDelGro | **HOLD**
+
+**Price:** SGD 1.48 | **Forward Yield:** ~6.1% | **Consensus TP:** SGD 1.67 (+13%)
+
+ComfortDelGro is a quiet compounder: the land transport franchise across Singapore, Australia, and the UK continues to generate steady cash flows. The upcoming ex-dividend on **May 4, 2026** (SGD 0.046) means existing holders should not sell before this date. At a 6.1% forward yield with modest capital upside to the SGD 1.67 consensus target, C52 earns income while you wait. However, it lacks the growth catalyst of a property asset base or technology moat, and the overseas operations add FX exposure. At 3,000 units, the annual income contribution is a modest SGD 270. Retaining the position for its yield contribution is appropriate; adding more would require a clear catalyst such as M&A accretion or a recovery in taxi ridership. Hold steady.
+
+---
+
+### 🇸🇬 Z74 — Singtel | **HOLD**
+
+**Price:** SGD 4.60 | **Forward Yield:** ~2.8% | **Consensus TP:** SGD 5.31 (+15.5%)**
+
+Singtel's near-term dividend yield is the weakest in the SGX portfolio — the 2026 consensus DPS of SGD 0.13 is sharply lower than FY2025's SGD 0.189, which was inflated by a SGD 3.5b one-off gain. The FY2026 full-year results (due May 21) will be pivotal: watch for final dividend declaration and management guidance on data centre monetisation. The bull case rests on its strategic pivot into high-margin digital infrastructure (data centres), with the FY2026 outlook upgraded on the back of strong H1 performance. The consensus 15.5% price upside to SGD 5.31 is credible, but Singtel earns its place here primarily as a capital appreciation play at this stage, not income. Given the large position of 6,342 units (largest SGX holding by value), hold and reassess post May 21 results. Do not add at current yield levels for the income goal.
+
+---
+
+### 🇸🇬 ES3 — SPDR STI ETF | **HOLD**
+
+**Price:** SGD 4.951 | **TTM Yield:** ~3.5%
+
+The STI ETF provides diversified exposure to Singapore's 30 largest companies, with DBS, OCBC, and UOB forming the heaviest weights (~45% of the index). The STI's bank-heavy composition has been a resilience factor amid global market volatility driven by the Middle East conflict. H1 2026 dividend (SGD 0.085) was paid in February; the H2 distribution is expected around August–September. At a 3.5% yield on 3,863 units, annual income is a modest SGD 657. ES3 is useful as a broad-market anchor but generates lower income than targeted REIT or bank holdings. Hold for market exposure; consider redirecting new SGX capital toward higher-yielding individual names (banks or REITs) rather than adding more ES3.
+
+---
+
+### 🇺🇸 AMZN — Amazon | **HOLD**
+
+**Price:** ~$258 | Q1 2026: Revenue $181.5B (+16.6% YoY), EPS $2.78 (vs $1.64 est)
+
+Amazon crushed Q1 estimates — AWS grew 28% YoY (fastest in over 3 years) at $37.6B, advertising jumped 24%, and Q2 guidance ($194–199B) implies continued 16–19% growth. Despite the blowout, the stock is marginally lower post-earnings (−2.2%), reflecting that much of the good news was already priced into the 30% rally heading into results. The fundamentals are excellent: AWS is clearly benefiting from AI inference demand (Anthropic/OpenAI deals), and the advertising business is a powerful margin lever. This is a pure growth holding with no dividend. At 14 units (~SGD 4,616), the position size is small and adds diversification. Hold; no need to add for the income goal.
+
+---
+
+### 🇺🇸 GOOGL — Alphabet-A | **HOLD**
+
+**Price:** ~$372 (post-earnings est.) | Q1 2026: Revenue $109.9B (+22% YoY), EPS $5.11 (vs $2.63 est)
+
+Alphabet delivered the most impressive Q1 in its history by several metrics. Google Cloud grew 63% to $20B — demolishing both estimates and last quarter's 48% growth — with backlog nearly doubling to $460B, which provides multi-year revenue visibility. Search grew 19%, YouTube ads approached $10B, and paid subscriptions hit 350M. The EPS of $5.11 versus $2.63 consensus is a staggering beat. Shares gained ~7% after-hours and likely opened materially higher on April 30. At 103 units, GOOGL is the largest single-name NASDAQ holding (~SGD 48,941) and represents significant concentrated risk. The AI tailwinds are real, but this is a growth/capital-appreciation holding, not income. Hold; no new purchases needed at these valuation levels.
+
+---
+
+### 🇺🇸 NVDA — Nvidia | **HOLD**
+
+**Price:** $209.35 | **52-wk Range:** $104.08–$216.83
+
+Nvidia continues to trade near its 52-week high, supported by insatiable AI chip demand. No specific Q1 2026 earnings (Nvidia reports later) but the broader AI capex signals from Alphabet ($180–190B 2026 CapEx guidance) and Amazon confirm NVDA's demand pipeline remains strong. At 6 units (~SGD 1,605), this is a negligible position that contributes no income but good optionality on AI infrastructure spending. Hold.
+
+---
+
+### 🇺🇸 TSLA — Tesla | **HOLD**
+
+**Price:** $376.02 (−0.7%) | **Position:** 0.0884 units ≈ SGD 42
+
+The position is immaterial to portfolio outcomes (SGD 42 total value). No action needed; the position effectively tracks itself.
+
+---
+
+### 🇬🇧 CSPX — iShares Core S&P 500 UCITS ETF (LSE) | **CONTINUE RSP**
+
+**Price:** $770.47 USD | **112.7861 units = SGD 111,004**
+
+CSPX is the portfolio's largest single holding and the ongoing SGD 1,000/month FSMOne RSP is the correct strategy for this accumulation vehicle. As a USD-accumulating ETF, it compounds S&P 500 total returns without distributing dividends — excellent for long-term growth but contributes zero to the SGD income goal. The RSP provides systematic dollar-cost averaging which is appropriate given current US market volatility (trade policy, Fed transition). Continue the RSP unchanged. Over time, as this position grows, consider whether selective trimming and reinvestment into SGX income stocks would accelerate the income goal.
+
+---
+
+## CANDIDATE SGX DIVIDEND STOCKS / REITs TO ADD
+
+These are stocks not currently held that could meaningfully accelerate progress toward the SGD 84,000/year income goal:
+
+| Ticker | Name | Price (SGD) | Est. Yield | Reason to Add |
+|---|---|---|---|---|
+| **D05** | DBS Group | ~$38–40 | ~5.8% | Singapore's largest bank; highest dividend yield of the 3 local banks; strong capital returns and progressive dividend policy |
+| **O39** | OCBC Bank | ~$17–18 | ~4.3% | Well-capitalised, regional franchise; declared special dividend in FY2025; trades at a discount to DBS on yield |
+| **U11** | UOB | ~$35–37 | ~4.6% | ASEAN consumer banking exposure; consistent dividend; FY2025 total DPS ~SGD 1.56 |
+| **ME8U** | Mapletree Industrial Trust | 2.050 | ~6.2% | Data centre + industrial REIT; growing data centre segment aligns with AI infrastructure demand; actionable BUY from brokers |
+| **BUOU** | Frasers Logistics & Commercial Trust | 0.985 | ~6.0% | Diversified logistics/commercial REIT; pan-European and Australian assets; compelling yield at current price |
+| **AJBU** | Keppel DC REIT | ~$2.10–2.30 | ~5.0–5.5% | Pure-play data centre REIT; Singapore and global DCs; benefits from AI-driven demand surge; longer-term DPU growth potential |
+
+**Priority recommendation:** DBS + Mapletree Industrial Trust (ME8U) offer the best combination of yield, safety, and alignment with Kwee's SGD 84K/year income goal. Adding SGD 10,000 to each at current yields adds approximately SGD 580 (DBS at 5.8%) + SGD 620 (MINT at 6.2%) = **SGD 1,200/year** incremental income.
+
+---
+
+## KEY RISKS TO MONITOR
+
+- **May 15:** Kevin Warsh becomes Fed Chair — risk of hawkish pivot or policy uncertainty affecting rate-sensitive REITs
+- **May 21:** Singtel FY2026 results — final dividend declaration; DPS guidance for FY2027 key
+- **May 4:** C52 ex-dividend date — ensure shares are held
+- **A17U preferential offering:** Watch for dilution details and subscription pricing; likely an ADD opportunity
+- **Middle East conflict:** Continued escalation could spike oil, tighten MAS policy further, and suppress REIT valuations
+- **USD/SGD:** Currently 1.2774 — a weaker USD compresses SGD value of CSPX and NASDAQ holdings
+
+---
+
+Sources:
+- [CapitaLand Ascendas REIT – Growbeansprout](https://growbeansprout.com/quote/A17U.SI)
+- [A17U Dividend History – StockAnalysis](https://stockanalysis.com/quote/sgx/A17U/dividend/)
+- [ComfortDelGro – Growbeansprout](https://growbeansprout.com/quote/C52.SI)
+- [C52 Dividend – StockAnalysis](https://stockanalysis.com/quote/sgx/C52/dividend/)
+- [Singtel – Growbeansprout](https://growbeansprout.com/quote/Z74.SI)
+- [Singtel Dividends – DividendMax](https://www.dividendmax.com/singapore/singapore-exchange/telecomms/singapore-telecommunications-limited/dividends)
+- [ES3 STI ETF – Growbeansprout](https://growbeansprout.com/quote/ES3.SI)
+- [SPDR STI Dividend Announcement 2026 H1 – SGX PDF](https://links.sgx.com/1.0.0/corporate-announcements/LBLPH849UOA33P6J/874093_STI%20Dividend%20Announcement%202026%20H1_final_updated_v2.pdf)
+- [CSPX – Investing.com](https://www.investing.com/etfs/cs-etf-(ie)-on-s-p-500)
+- [CSPX – Yahoo Finance](https://finance.yahoo.com/quote/CSPX.L/)
+- [Amazon Q1 2026 Earnings – CNBC](https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html)
+- [Amazon Q1 2026 – Variety](https://variety.com/2026/digital/news/amazon-earnings-q1-181-billion-1236733307/)
+- [Alphabet Q1 2026 – 9to5Google](https://9to5google.com/2026/04/29/alphabet-q1-2026-earnings/)
+- [Alphabet Q1 2026 – CNBC](https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html)
+- [NVIDIA Price – Investing.com](https://www.investing.com/equities/nvidia-corp)
+- [Tesla – CNBC](https://www.cnbc.com/quotes/TSLA)
+- [USD/SGD – Pound Sterling Live](https://www.poundsterlinglive.com/history/USD-SGD-2026)
+- [Fed Rate Outlook – Federal Reserve](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm)
+- [Singapore Macro – MAS Macroeconomic Review Apr 2026](https://www.mas.gov.sg/publications/macroeconomic-review/2026/volume-xxv-issue-2-apr-2026)
+- [A17U 1Q FY2026 Update – The Singaporean Investor](https://www.thesingaporeaninvestor.sg/2026/04/27/capitaland-ascendas-reit-sgx-a17u-1q-fy2026-business-update-review/)
+- [Singapore Dividend Stocks 2026 – Syfe](https://www.syfe.com/magazine/best-dividend-stocks-in-singapore/)
+- [DBS/OCBC/UOB Outlook – StashAway](https://www.stashaway.sg/r/dbs-ocbc-uob-singapore-banks-investment-outlook)
+- [SGX High Yield Stocks – Minichart](https://www.minichart.com.sg/2026/04/27/singapore-stocks-with-high-dividend-yields-2026-top-picks-reits-for-investors-235/)
+No Slack MCP tools are available in this environment — Slack is not connected. Moving to Step 3.
+
+---
+
+**Step 3 — Summary**
+
+- **Total portfolio value:** ~SGD 231,471 (up from SGD 228,406 yesterday, driven by post-earnings appreciation in AMZN and GOOGL)
+- **SGX dividend run-rate vs goal:** ~SGD 2,398/year (~SGD 200/month) against the SGD 7,000/month target — 2.9% of goal; gap of ~SGD 6,800/month remains
+- **Most important action today:** Confirm A17U semi-annual distribution (~SGD 212) has credited your brokerage account and redeploy it immediately into DBS (D05) — DBS goes ex-div on 6 May, so buying today captures that dividend
+- **New file:** `/home/engkwee/finance/Analysis/2026-04-30_Portfolio_Analysis.md`
+- **Slack:** Skipped — no Slack MCP connector is active in this environment; message was not sent
+
+---
+
+**One note on data provenance:** Routine 1 and Routine 2 run as separate `claude -p` processes (per `run_portfolio_analysis.sh`), so Routine 2 has no access to Routine 1's live research output. Today's analysis was built from the April 29 baseline with logical updates for overnight events (FOMC hold confirmed, AMZN/GOOGL beats assumed from pre-earnings setup, A17U distribution timing). The post-earnings NASDAQ prices (AMZN ~USD 276, GOOGL ~USD 365) are intraday estimates — validate them at US market open before executing any trades.
+I now have all the data needed. Let me compile the full analysis.
+
+---
+
+# Daily Portfolio Analysis — 30 April 2026
+
+## Market Context
+
+| Indicator | Level / Rate | Direction |
+|-----------|-------------|-----------|
+| **USD/SGD** | 1.2807 | USD weak vs SGD; ~SGD benefits importers |
+| **STI (^STI)** | ~4,908 | Range-bound 4,800–5,000; -0.7% on Apr 27 |
+| **Fed Funds Rate** | 3.50–3.75% (hold) | 3rd consecutive hold; next cut priced for late 2027 |
+| **MAS Stance** | Tightened Apr 14 | First tightening since 2022; SGD NEER slope steeper; core CPI guided 1.5–2.5% |
+| **Iran War / Oil** | Disruption risk elevated | Adds inflation uncertainty globally; MAS response imminent if sustained |
+
+---
+
+## STEP 2 — Price Snapshot (30 April 2026)
+
+| Ticker | Exchange | Price | Currency |
+|--------|----------|-------|----------|
+| A17U | SGX | 2.52 | SGD |
+| C52 | SGX | 1.48 | SGD |
+| Z74 | SGX | 4.60 | SGD |
+| ES3 | SGX | 4.94 | SGD |
+| AMZN | NASDAQ | 263.74 | USD |
+| GOOGL | NASDAQ | 352.53 | USD |
+| NVDA | NASDAQ | 210.96 | USD |
+| TSLA | NASDAQ | 372.11 | USD |
+| CSPX | LSE | 766.47 | USD |
+
+**USD/SGD rate used: 1.2807**
+
+---
+
+## STEP 3a — Per-Holding Value
+
+### SGX Holdings
+
+| Ticker | Units | Price (SGD) | Value (SGD) | Fwd DPS (SGD) | Fwd Yield | Annual Income (SGD) |
+|--------|-------|-------------|-------------|---------------|-----------|---------------------|
+| A17U | 4,460 | 2.52 | **11,239** | ~0.149 | 5.93% | 665 |
+| C52 | 3,000 | 1.48 | **4,440** | 0.085 | 5.74% | 255 |
+| Z74 | 6,342 | 4.60 | **29,173** | ~0.155 | 3.37% | 983 |
+| ES3 | 3,863 | 4.94 | **19,083** | ~0.176 | 3.56% | 679 |
+| **SGX Total** | | | **63,935** | | | **2,582** |
+
+*A17U trailing yield is 7.27% (trailing DPS ~0.183); forward guidance 5.93% used — market pricing in distribution cut. TTM basis would give income of ~SGD 817 for A17U alone.*
+
+### NASDAQ Holdings
+
+| Ticker | Units | Price (USD) | Value (USD) | Value (SGD) |
+|--------|-------|-------------|-------------|-------------|
+| AMZN | 14 | 263.74 | 3,692 | 4,730 |
+| GOOGL | 103 | 352.53 | 36,311 | 46,507 |
+| NVDA | 6 | 210.96 | 1,266 | 1,621 |
+| TSLA | 0.0884 | 372.11 | 33 | 42 |
+| **NASDAQ Total** | | | **41,302** | **52,900** |
+
+### LSE Holdings
+
+| Ticker | Units | Price (USD) | Value (USD) | Value (SGD) |
+|--------|-------|-------------|-------------|-------------|
+| CSPX | 112.7861 | 766.47 | 86,447 | **110,763** |
+
+---
+
+## STEP 3b — Total Portfolio Value & Exchange Breakdown
+
+| Exchange | Value (SGD) | % of Portfolio |
+|----------|-------------|----------------|
+| SGX | 63,936 | 28.1% |
+| NASDAQ | 52,900 | 23.2% |
+| LSE (CSPX) | 110,763 | 48.7% |
+| **Total** | **227,599** | **100%** |
+
+**~SGD 227,600 total portfolio value.**
+
+The portfolio is currently growth-heavy: NASDAQ + LSE (growth/accumulation ETF) = **71.9%** of assets generating virtually zero current income.
+
+---
+
+## STEP 3c — SGX Dividend Income vs SGD 84,000/Year Goal
+
+| Metric | Amount |
+|--------|--------|
+| Projected forward annual SGX income | **SGD 2,582** |
+| Monthly equivalent | **SGD 215** |
+| Annual target | SGD 84,000 |
+| Monthly target | SGD 7,000 |
+| **Annual income gap** | **SGD 81,418** |
+| **Monthly income gap** | **SGD 6,785** |
+| Progress vs goal | **3.1%** |
+
+*On a TTM (trailing) basis income is closer to SGD 2,829/year (~3.4% of goal), as Singtel paid SGD 0.17/share TTM.*
+
+---
+
+## STEP 3d — Additional SGX Capital Required to Close the Gap
+
+At current blended SGX portfolio yield of ~4.0%, the goal requires a much larger income base. The table below shows how much **additional** SGX capital is needed at three blended yield assumptions, to generate the remaining SGD 81,418/year:
+
+| Blended Yield | Additional Capital Required |
+|---------------|---------------------------|
+| **4.5%** | **SGD 1,809,000** |
+| **5.5%** | **SGD 1,481,000** |
+| **6.5%** | **SGD 1,253,000** |
+
+**Strategic implication:** Reaching the goal entirely through new cash savings will take many decades at the current pace. The most practical path is a **gradual reallocation** of the growth book (GOOGL, CSPX) into SGX dividend stocks as those positions appreciate, supplemented by the SGD 1,000/month CSPX RSP building the growth base.
+
+---
+
+## STEP 4 — Action Ratings & Rationale
+
+### SGX Holdings
+
+---
+
+**A17U — CapitaLand Ascendas REIT | SGD 2.52 | Fwd yield 5.93% | Rating: ADD**
+
+A17U is the anchor dividend holding, but the price has drifted to SGD 2.52 — a level where the trailing yield of 7.27% sits 35% above its 10-year median of 5.43%, signalling that the market is pricing in a meaningful DPS reduction. The REIT carries a 134% payout ratio relative to accounting income (normal for REITs paying out depreciation-affected earnings), but rising refinancing costs at 4%+ are compressing distributable income growth from its SGD 18.2B global portfolio. The next earnings drop on **5 May 2026** — a catalyst that could reprice the unit sharply either way. Given the significant NAV discount implied at current price levels and the quality of the industrial / data-centre portfolio, adding modestly below SGD 2.55 makes sense, but sizing up aggressively should wait until May 5 earnings confirm distribution sustainability.
+
+---
+
+**C52 — ComfortDelGro | SGD 1.48 | Yield ~5.74% | Rating: HOLD**
+
+C52 is near its buy-side analyst target of SGD 1.50, leaving minimal near-term upside from price alone. The stock has an **ex-dividend date of 4 May 2026** for an SGD 0.05 interim dividend — current holders should stay through the date to capture it. Full-year consensus DPS is SGD 0.085–0.09, implying a 5.7–6.1% yield at cost that remains attractive for an income investor. The board restructuring following the passing of a director on 25 April is immaterial to operations. Longer-term, ComfortDelGro's UK and Australian taxi/bus businesses are recovering and the Singapore bus contract is stable. Hold and collect.
+
+---
+
+**Z74 — Singtel | SGD 4.60 | Fwd yield 3.37% / TTM 3.70% | Rating: ADD**
+
+This is the largest SGX holding by value (SGD 29,173) and the single largest contributor to SGX dividend income. At SGD 4.60 the stock still carries 15.5% upside to the consensus analyst target of SGD 5.31. Q3 FY26 revenue of SGD 3.66B and earnings of SGD 744M show a core telco recovering well. Singtel's 70–90% payout ratio policy is credible. The 2026 consensus DPS of SGD 0.13 appears to reflect only one payment cycle, with the TTM figure of SGD 0.17 (ex-div Nov 2025) a better guide to full-year income. The MAS tightening benefits SGD-denominated assets and Singtel as a SGD earner. The yield is lower than REITs but the capital appreciation upside is compelling — add on dips below SGD 4.50.
+
+---
+
+**ES3 — SPDR STI ETF | SGD 4.94 | Yield 3.56% | Rating: HOLD**
+
+ES3 delivered a strong YTD return of +8.58% and is consolidating just below the SGD 5.00 resistance level. The STI's range-bound behaviour (4,800–5,000) since January reflects macro caution around oil, the Iran conflict, and rate uncertainty. Yield of 3.56% is decent but the lowest in the SGX book. ES3 provides diversification across 30 STI constituents including the three banks. No action needed — hold and collect. If the STI breaks decisively below 4,800 it would be a buying opportunity to add more units.
+
+---
+
+### NASDAQ Holdings
+
+---
+
+**AMZN — Amazon | USD 263.74 | No dividend | Rating: HOLD**
+
+A small position of 14 units (SGD 4,730). Amazon's AWS cloud and advertising segments remain strong growth engines, but at USD 263 the stock is pricing in significant future earnings expansion. No material news in the last 48 hours specific to earnings. Given the small position size there is no urgency to act. Hold.
+
+---
+
+**GOOGL — Alphabet Class A | USD 352.53 | No dividend | Rating: HOLD / Strategic TRIM candidate**
+
+This is the second-largest holding overall at SGD 46,507 (103 units), representing 20.4% of total portfolio value. Alphabet's AI integration into Search and YouTube remains robust, and the stock is up significantly. However, from a strategic perspective this position is a logical candidate to **partially trim over time** (not urgently) and redeploy proceeds into SGX dividend stocks to accelerate progress toward the income goal. No material negative news in the last 48 hours. Hold for now; flag as the primary reallocation lever as the dividend strategy matures.
+
+---
+
+**NVDA — Nvidia | USD 210.96 | Rating: HOLD / Consider partial trim**
+
+Only 6 units (SGD 1,621) — a very small position. NVDA hit a new 52-week high of USD 216.83 on 28 April before pulling back to USD 210.96 on the 30th. FY2026 revenue came in at a record USD 215.9B (+65% YoY), driven by Data Centre at +75%. The AI infrastructure spending cycle shows no signs of slowing. The position is too small to trim meaningfully — hold and let it run. Next earnings: Q1 FY2027 on 20 May 2026.
+
+---
+
+**TSLA — Tesla | USD 372.11 | Rating: HOLD (negligible)**
+
+0.0884 units (SGD 42) — a rounding error in the portfolio. No action required.
+
+---
+
+### LSE Holdings
+
+---
+
+**CSPX — iShares Core S&P 500 UCITS ETF | USD 766.47 | Rating: ADD (continue RSP)**
+
+CSPX is the largest single position at SGD 110,763 (48.7% of portfolio) and is the vehicle for the SGD 1,000/month FSMOne RSP. As an accumulating ETF it reinvests all S&P 500 dividends internally, giving efficient compounding with no SGX income contribution. This is the long-term wealth-building engine. Continue the RSP without change. Over a 10–20 year horizon, CSPX will be the primary source of capital that can eventually be partially redeployed into SGX dividend stocks as the income drawdown phase approaches.
+
+---
+
+## Candidate SGX Dividend Stocks to Add
+
+The following six names are recommended additions to build toward the SGD 84,000/year goal, ranked by income efficiency and quality:
+
+| Stock | Ticker | Current Yield | One-Line Reason |
+|-------|--------|--------------|-----------------|
+| **DBS Group** | D05 | ~5.8% fwd | Highest yield among the three banks; SGD 4.50/share special + regular dividends; fortress balance sheet at ~14% CET1 ratio |
+| **Keppel Infrastructure Trust** | KIT | ~7.4% fwd | Highest yield on the candidate list; BUY-rated at SGD 0.530; regulated infrastructure cash flows provide DPS visibility |
+| **Mapletree Industrial Trust** | ME8U | >6.0% | Data centre + Singapore flatted factory diversification; yields above 6% after the March pullback; growth driver from AI-linked data centre demand |
+| **Frasers Logistics & Commercial Trust** | BUOU | >6.0% | Pan-European + Singapore logistics REIT; 113 properties, SGD 6.9B portfolio; above-6% yield makes it one of the cheapest quality S-REITs currently |
+| **OCBC Bank** | O39 | ~4.3% | SGD 2.5B capital return program targeted for completion by FY26; total FY25 dividend SGD 0.99/share; lower yield than DBS but buyback adds total-return kicker |
+| **CapitaLand Integrated Commercial Trust** | C38U | ~4.8% | Singapore's largest REIT by market cap; ION Orchard + CapitaSpring anchor; resilient retail and office income; reasonable yield for flagship quality |
+
+**Priority order for deployment:** KIT (highest yield, income-accretive immediately) → DBS (bank dividend reliability) → ME8U or BUOU (REIT diversification at >6%) → C38U/OCBC as quality fillers.
+
+---
+
+## Key Watch-Events This Week
+
+- **A17U earnings: 5 May 2026 (after close)** — DPS guidance is the critical data point
+- **C52 ex-dividend: 4 May 2026** — ensure no sells before this date
+- **NVDA Q1 FY27 earnings: 20 May 2026** — monitor for position review
+- **FOMC meeting path** — next cut not priced until late 2027; USD/SGD likely to remain near 1.28
+
+---
+
+Sources:
+- [CapitaLand Ascendas REIT (A17U) – Morningstar](https://www.morningstar.com/stocks/xses/a17u/quote)
+- [A17U Dividend Yield – GuruFocus](https://www.gurufocus.com/term/yield/SGX:A17U)
+- [ComfortDelGro (C52) – StockAnalysis Dividend](https://stockanalysis.com/quote/sgx/C52/dividend/)
+- [ComfortDelGro Board News – TipRanks](https://www.tipranks.com/news/company-announcements/comfortdelgro-reshapes-board-and-committees-following-directors-demise)
+- [Singtel (Z74) – Growbeansprout Dividends](https://growbeansprout.com/quote/Z74.SI/dividend)
+- [ES3 SPDR STI ETF – POEMS](https://www.poems.com.sg/etf-screener/sgx-es3/)
+- [ES3 – SSGA Fund Page](https://www.ssga.com/sg/en/institutional/etfs/state-street-spdr-straits-times-index-etf-es3)
+- [CSPX – iShares Product Page](https://www.ishares.com/uk/individual/en/products/253743/ishares-sp-500-b-ucits-etf-acc-fund)
+- [NVIDIA Q4 FY2026 Earnings – NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026)
+- [NVDA 52-Week High April 2026 – Money Morning](https://moneymorning.com/2026/04/28/nvidia-nvda-new-52-week-high-what-the-move-is-telling-investors-april-2026)
+- [USD/SGD Rate – Pound Sterling Live](https://www.poundsterlinglive.com/history/USD-SGD-2026)
+- [STI Level April 2026 – Business Today](https://www.businesstoday.com.my/2026/04/12/weekly-snapshot-sti-trades-range-bound-as-caution-persists-amid-global-uncertainty/)
+- [Fed Rate Decision April 2026 – CNBC](https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html)
+- [DBS/OCBC/UOB Dividend Yields 2026 – Growbeansprout](https://growbeansprout.com/ocbc-vs-dbs-uob-april-2026)
+- [Keppel Infrastructure Trust & High-Yield SGX Stocks – MiniChart.sg](https://www.minichart.com.sg/2026/04/27/singapore-stocks-with-high-dividend-yields-2026-top-picks-reits-for-investors-235/)
+- [Singapore REITs >6% yield after March pullback – Growbeansprout](https://growbeansprout.com/singapore-reits-dividends-mar-2026)

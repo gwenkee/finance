@@ -3,7 +3,12 @@
     "allow": [
       "Bash(bash *)",
       "Skill(update-config)",
-      "Read(//home/engkwee/.claude/**)"
+      "Read(//home/engkwee/.claude/**)",
+      "Read(//home/engkwee/**)",
+      "Bash(claude mcp *)",
+      "Bash(python3 -m json.tool)",
+      "Bash(python3 *)",
+      "Bash(claude auth *)"
     ]
   }
 }
